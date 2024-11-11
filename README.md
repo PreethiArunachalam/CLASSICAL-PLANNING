@@ -115,6 +115,9 @@ actions = {
 plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 ```
+# Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
+## You Can use any of the searching Strategies for planning and executing a sequence of actions.
+## You can also look in to the Code given in the Repository.
 # Output:
 
 ![image](https://github.com/user-attachments/assets/2eb1ed72-e654-463b-b6b6-4ca7c7b4c6e8)
